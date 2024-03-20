@@ -1,0 +1,19 @@
+.test {
+  justify-content: space-between;
+
+  margin-bottom: 12px;
+
+  vertical-align: middle;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  justify-content: flex-end;
+
+  flex-direction: column;
+  justify-content: flex-end;
+
+  border: 1px solid red;
+  
+}
